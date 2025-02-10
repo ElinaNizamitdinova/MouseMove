@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Mouse Movement Tracker</h1>
+    <button id="sendDataButton" class="btn btn-primary">Отправить данные</button>
+</div>
+
+@section Scripts {
+    <script>
+        let mouseData = [];
+
+        document.addEventListener('mousemove', function(event) {
+            let timestamp = new Date().getTime();
+            mouseData.push([event.clientX, event.clientY, timestamp]);
+        });
+
+        document.getElementById('sendDataButton').addEventListener('click', function() {
+            fetch('/api/MouseData', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(mouseData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Success:', data);
+                alert('Данные успешно отправлены!');
+                mouseData = []; // Очищаем данные после отправки
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                alert('Ошибка при отправке данных!');
+            });
+        });
+    </script>
+}

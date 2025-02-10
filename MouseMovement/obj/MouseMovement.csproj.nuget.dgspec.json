@@ -4,14 +4,158 @@
     "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\MouseMovement.csproj": {}
   },
   "projects": {
-    "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\MouseMovement.csproj": {
+    "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\MouseMovementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\MouseMovement.csproj",
-        "projectName": "MouseMovement",
-        "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\MouseMovement.csproj",
+        "projectUniqueName": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\MouseMovementApp.csproj",
+        "projectName": "MouseMovementApp",
+        "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\MouseMovementApp.csproj",
         "packagesPath": "C:\\Users\\elina\\.nuget\\packages\\",
-        "outputPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\obj\\",
+        "outputPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj": {
+                "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\MouseMovementContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\MouseMovementContext.csproj",
+        "projectName": "MouseMovementContext",
+        "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\MouseMovementContext.csproj",
+        "packagesPath": "C:\\Users\\elina\\.nuget\\packages\\",
+        "outputPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj": {
+                "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj",
+        "projectName": "MouseMovementDomain",
+        "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj",
+        "packagesPath": "C:\\Users\\elina\\.nuget\\packages\\",
+        "outputPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +193,92 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\MouseMovement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\MouseMovement.csproj",
+        "projectName": "MouseMovement",
+        "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\MouseMovement.csproj",
+        "packagesPath": "C:\\Users\\elina\\.nuget\\packages\\",
+        "outputPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\MouseMovementApp.csproj": {
+                "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\MouseMovementApp.csproj"
+              },
+              "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\MouseMovementContext.csproj": {
+                "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\MouseMovementContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

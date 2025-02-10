@@ -1,0 +1,16 @@
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\bin\Debug\net8.0\MouseMovementApp.deps.json
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\bin\Debug\net8.0\MouseMovementApp.dll
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\bin\Debug\net8.0\MouseMovementApp.pdb
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\bin\Debug\net8.0\MouseMovementDomain.dll
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\bin\Debug\net8.0\MouseMovementDomain.pdb
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.csproj.AssemblyReference.cache
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.AssemblyInfoInputs.cache
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.AssemblyInfo.cs
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.csproj.CoreCompileInputs.cache
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.sourcelink.json
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMov.B519881A.Up2Date
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.dll
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\refint\MouseMovementApp.dll
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\MouseMovementApp.pdb
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementApp\obj\Debug\net8.0\ref\MouseMovementApp.dll

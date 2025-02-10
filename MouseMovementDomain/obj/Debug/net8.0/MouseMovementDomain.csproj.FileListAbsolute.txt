@@ -1,0 +1,12 @@
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\bin\Debug\net8.0\MouseMovementDomain.deps.json
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\bin\Debug\net8.0\MouseMovementDomain.dll
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\bin\Debug\net8.0\MouseMovementDomain.pdb
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\MouseMovementDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\MouseMovementDomain.AssemblyInfoInputs.cache
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\MouseMovementDomain.AssemblyInfo.cs
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\MouseMovementDomain.csproj.CoreCompileInputs.cache
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\MouseMovementDomain.sourcelink.json
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\MouseMovementDomain.dll
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\refint\MouseMovementDomain.dll
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\MouseMovementDomain.pdb
+D:\elinaProgrammer\elina\MouseMovement\MouseMovementDomain\obj\Debug\net8.0\ref\MouseMovementDomain.dll

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MouseMovement.Controllers.MouseDataController",
+    "Method": "Post",
+    "RelativePath": "api/MouseData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mouseData",
+        "Type": "MouseMovementDomain.Domain.MouseDataDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
