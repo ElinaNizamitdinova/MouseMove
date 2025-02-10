@@ -2,7 +2,7 @@
 using MouseMovementApp.Application;
 using MouseMovementDomain.Domain;
 
-namespace MouseMovement.Controllers
+namespace MouseMovement.Presentation.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

@@ -11,6 +11,7 @@ namespace MouseMovementApp.Application
     {
         private readonly ICoordinateRepository _repository;
 
+        public MouseMovementService() { }
         public MouseMovementService(ICoordinateRepository repository)
         {
             _repository = repository;
