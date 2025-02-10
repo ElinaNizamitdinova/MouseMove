@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MouseMovementContext")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd07bd20ff5b52f739bdecc363a1affbc3eb7ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e985235cd0afabf475f559f5eded071ddaaf3f33")]
 [assembly: System.Reflection.AssemblyProductAttribute("MouseMovementContext")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MouseMovementContext")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
