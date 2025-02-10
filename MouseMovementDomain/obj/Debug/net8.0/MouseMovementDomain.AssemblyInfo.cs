@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MouseMovementDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552ff0b169166a00ae408f4c1fc51cd63674d67b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd07bd20ff5b52f739bdecc363a1affbc3eb7ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("MouseMovementDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MouseMovementDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

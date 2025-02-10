@@ -288,6 +288,16 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "MouseMovementDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MouseMovementDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MouseMovementDomain.dll": {}
+        }
       }
     }
   },
@@ -733,10 +743,16 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MouseMovementDomain/1.0.0": {
+      "type": "project",
+      "path": "../MouseMovementDomain/MouseMovementDomain.csproj",
+      "msbuildProject": "../MouseMovementDomain/MouseMovementDomain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "MouseMovementDomain >= 1.0.0",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.3"
     ]
   },
@@ -771,7 +787,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj": {
+              "projectPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\MouseMovementDomain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
