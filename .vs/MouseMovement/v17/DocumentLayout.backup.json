@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "D:\\elinaProgrammer\\elina\\MouseMovement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C2E8BE1-3128-4981-91C1-E8A36CDB0D15}|MouseMovementTest\\MouseMovementTest.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementtest\\mosemovementtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2E8BE1-3128-4981-91C1-E8A36CDB0D15}|MouseMovementTest\\MouseMovementTest.csproj|solutionrelative:mousemovementtest\\mosemovementtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovement\\presentation\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|solutionrelative:mousemovement\\presentation\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementdomain\\domain\\mousedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|solutionrelative:mousemovementdomain\\domain\\mousedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovement\\presentation\\controllers\\mousedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|solutionrelative:mousemovement\\presentation\\controllers\\mousedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementdomain\\domain\\icoordinaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|solutionrelative:mousemovementdomain\\domain\\icoordinaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|solutionrelative:mousemovementcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA21836-3797-4613-BD1F-2425E796E233}|MouseMovementApp\\MouseMovementApp.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementapp\\application\\mousemovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DA21836-3797-4613-BD1F-2425E796E233}|MouseMovementApp\\MouseMovementApp.csproj|solutionrelative:mousemovementapp\\application\\mousemovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovement\\presentation\\controllers\\mousedatacomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|solutionrelative:mousemovement\\presentation\\controllers\\mousedatacomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|solutionrelative:mousemovement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|solutionrelative:mousemovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovement\\presentation\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|solutionrelative:mousemovement\\presentation\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C2E8BE1-3128-4981-91C1-E8A36CDB0D15}|MouseMovementTest\\MouseMovementTest.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementtest\\mosemovementtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2E8BE1-3128-4981-91C1-E8A36CDB0D15}|MouseMovementTest\\MouseMovementTest.csproj|solutionrelative:mousemovementtest\\mosemovementtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A6072B7-448E-467E-A7F0-32BEE804C649}|MouseMovement\\MouseMovement.csproj|solutionrelative:mousemovement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementcontext\\infrastructure\\coordinaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +47,8 @@
       "RelativeMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|solutionrelative:mousemovementcontext\\infrastructure\\mousemovementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementdomain\\domain\\icoordinaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|solutionrelative:mousemovementdomain\\domain\\icoordinaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementdomain\\domain\\mousedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1D7DF9-195B-44AC-9FCF-FBAF197162FF}|MouseMovementDomain\\MouseMovementDomain.csproj|solutionrelative:mousemovementdomain\\domain\\mousedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementcontext\\infrastructure\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|solutionrelative:mousemovementcontext\\infrastructure\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|d:\\elinaprogrammer\\elina\\mousemovement\\mousemovementcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1235CAD8-AC43-4C15-AE43-A030049A7354}|MouseMovementContext\\MouseMovementContext.csproj|solutionrelative:mousemovementcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 40,
+          "SelectedChildIndex": 46,
           "Children": [
             {
               "$type": "Bookmark",
@@ -222,72 +222,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MoseMovementTest.cs",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementTest\\MoseMovementTest.cs",
-              "RelativeDocumentMoniker": "MouseMovementTest\\MoseMovementTest.cs",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementTest\\MoseMovementTest.cs",
-              "RelativeToolTip": "MouseMovementTest\\MoseMovementTest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MouseDataDto.cs",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\Domain\\MouseDataDto.cs",
+              "RelativeDocumentMoniker": "MouseMovementDomain\\Domain\\MouseDataDto.cs",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\Domain\\MouseDataDto.cs",
+              "RelativeToolTip": "MouseMovementDomain\\Domain\\MouseDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T12:10:02.459Z",
+              "WhenOpened": "2025-02-10T11:05:25.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MouseDataComtroller.cs",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Controllers\\MouseDataComtroller.cs",
-              "RelativeDocumentMoniker": "MouseMovement\\Presentation\\Controllers\\MouseDataComtroller.cs",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Controllers\\MouseDataComtroller.cs",
-              "RelativeToolTip": "MouseMovement\\Presentation\\Controllers\\MouseDataComtroller.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Title": "MouseDataController.cs",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Controllers\\MouseDataController.cs",
+              "RelativeDocumentMoniker": "MouseMovement\\Presentation\\Controllers\\MouseDataController.cs",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Controllers\\MouseDataController.cs",
+              "RelativeToolTip": "MouseMovement\\Presentation\\Controllers\\MouseDataController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T11:51:26.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\appsettings.json",
-              "RelativeDocumentMoniker": "MouseMovement\\appsettings.json",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\appsettings.json",
-              "RelativeToolTip": "MouseMovement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T11:48:01.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "MouseMovement\\Presentation\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Pages\\Index.cshtml",
-              "RelativeToolTip": "MouseMovement\\Presentation\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T11:36:24.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MouseMovementService.cs",
               "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\Application\\MouseMovementService.cs",
               "RelativeDocumentMoniker": "MouseMovementApp\\Application\\MouseMovementService.cs",
               "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementApp\\Application\\MouseMovementService.cs",
               "RelativeToolTip": "MouseMovementApp\\Application\\MouseMovementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T11:23:34.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\Program.cs",
+              "RelativeDocumentMoniker": "MouseMovementContext\\Program.cs",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\Program.cs",
+              "RelativeToolTip": "MouseMovementContext\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:22:27.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Program.cs",
+              "RelativeDocumentMoniker": "MouseMovement\\Program.cs",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Program.cs",
+              "RelativeToolTip": "MouseMovement\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:18:44.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ICoordinateRepository.cs",
               "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\Domain\\ICoordinateRepository.cs",
               "RelativeDocumentMoniker": "MouseMovementDomain\\Domain\\ICoordinateRepository.cs",
@@ -300,46 +300,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MouseMovement\\Presentation\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Presentation\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MouseMovement\\Presentation\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T11:36:24.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoseMovementTest.cs",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementTest\\MoseMovementTest.cs",
+              "RelativeDocumentMoniker": "MouseMovementTest\\MoseMovementTest.cs",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementTest\\MoseMovementTest.cs",
+              "RelativeToolTip": "MouseMovementTest\\MoseMovementTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:10:02.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\appsettings.json",
+              "RelativeDocumentMoniker": "MouseMovement\\appsettings.json",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\appsettings.json",
+              "RelativeToolTip": "MouseMovement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T11:48:01.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mousemovementContext.cs",
+              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\infrastructure\\mousemovementContext.cs",
+              "RelativeDocumentMoniker": "MouseMovementContext\\infrastructure\\mousemovementContext.cs",
+              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\infrastructure\\mousemovementContext.cs",
+              "RelativeToolTip": "MouseMovementContext\\infrastructure\\mousemovementContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:52:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MouseDataDto.cs",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\Domain\\MouseDataDto.cs",
-              "RelativeDocumentMoniker": "MouseMovementDomain\\Domain\\MouseDataDto.cs",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementDomain\\Domain\\MouseDataDto.cs",
-              "RelativeToolTip": "MouseMovementDomain\\Domain\\MouseDataDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:05:25.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Program.cs",
-              "RelativeDocumentMoniker": "MouseMovement\\Program.cs",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovement\\Program.cs",
-              "RelativeToolTip": "MouseMovement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:18:44.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CoordinateRepository.cs",
               "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\infrastructure\\CoordinateRepository.cs",
               "RelativeDocumentMoniker": "MouseMovementContext\\infrastructure\\CoordinateRepository.cs",
               "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\infrastructure\\CoordinateRepository.cs",
               "RelativeToolTip": "MouseMovementContext\\infrastructure\\CoordinateRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T11:12:19.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Coordinate.cs",
               "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\infrastructure\\Coordinate.cs",
               "RelativeDocumentMoniker": "MouseMovementContext\\infrastructure\\Coordinate.cs",
@@ -348,32 +374,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T10:52:59.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "mousemovementContext.cs",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\infrastructure\\mousemovementContext.cs",
-              "RelativeDocumentMoniker": "MouseMovementContext\\infrastructure\\mousemovementContext.cs",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\infrastructure\\mousemovementContext.cs",
-              "RelativeToolTip": "MouseMovementContext\\infrastructure\\mousemovementContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:52:51.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\Program.cs",
-              "RelativeDocumentMoniker": "MouseMovementContext\\Program.cs",
-              "ToolTip": "D:\\elinaProgrammer\\elina\\MouseMovement\\MouseMovementContext\\Program.cs",
-              "RelativeToolTip": "MouseMovementContext\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:22:27.476Z",
               "EditorCaption": ""
             }
           ]

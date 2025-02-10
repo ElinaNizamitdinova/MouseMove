@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "MouseMovement.Controllers.MouseDataController",
+    "ContainingType": "MouseMovement.Presentation.Controllers.MouseDataController",
     "Method": "Post",
     "RelativePath": "api/MouseData",
     "HttpMethod": "POST",

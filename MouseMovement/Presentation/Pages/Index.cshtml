@@ -15,22 +15,28 @@
 
         document.addEventListener('mousemove', function(event) {
             let timestamp = new Date().getTime();
+          
             mouseData.push([event.clientX, event.clientY, timestamp]);
         });
 
         document.getElementById('sendDataButton').addEventListener('click', function() {
+           
+            let payload = {
+                Coordinates: mouseData 
+            };
+
             fetch('/api/MouseData', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify(mouseData)
+                body: JSON.stringify(payload) 
             })
             .then(response => response.json())
             .then(data => {
                 console.log('Success:', data);
                 alert('Данные успешно отправлены!');
-                mouseData = []; // Очищаем данные после отправки
+                mouseData = []; 
             })
             .catch((error) => {
                 console.error('Error:', error);
